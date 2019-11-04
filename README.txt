@@ -2,7 +2,7 @@ FMC consists in recording full matrix of time domain signals from every transmit
 
 This code is about full-matrix-capture data acquistition method with total focusing imaging algorihtm 
 
-The class TFM is used to reconstruct the ultrasonic image
+The class FMC-TFM cladding is used to reconstruct the ultrasonic image
 
 The data is coming from my experiment of FMC scanning on Austenitic cladding steel
 
