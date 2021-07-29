@@ -6,4 +6,4 @@ The class FMC-TFM cladding is used to reconstruct the ultrasonic image
 
 The data is coming from my experiment of FMC scanning on Austenitic cladding steel
 
-![Picture2](https://user-images.githubusercontent.com/48675751/127564820-0a4fc61f-869c-4c2b-8cf6-fac1e70f7c91.png)
+https://github.com/MPXZ/FMC-TFM/issues/1#issue-956202148
